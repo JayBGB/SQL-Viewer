@@ -1,0 +1,60 @@
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.exe
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll.config
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.deps.json
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.runtimeconfig.json
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.pdb
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\en-GB\ConnectingToDatabaseExercise.resources.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.AssemblyReference.cache
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form1.resources
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form2.resources
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form1.en-GB.resources
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form2.en-GB.resources
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.GenerateResource.cache
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.AssemblyInfoInputs.cache
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.AssemblyInfo.vb
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.CoreCompileInputs.cache
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\en-GB\ConnectingToDatabaseExercise.resources.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\Connecti.31072D74.Up2Date
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\refint\ConnectingToDatabaseExercise.dll
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.pdb
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.genruntimeconfig.cache
+C:\Users\Borja\source\repos\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ref\ConnectingToDatabaseExercise.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.exe
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll.config
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.deps.json
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.runtimeconfig.json
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\ConnectingToDatabaseExercise.pdb
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\en-GB\ConnectingToDatabaseExercise.resources.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.AssemblyReference.cache
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form1.resources
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form2.resources
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form1.en-GB.resources
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.Form2.en-GB.resources
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.GenerateResource.cache
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.AssemblyInfoInputs.cache
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.AssemblyInfo.vb
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.vbproj.CoreCompileInputs.cache
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\en-GB\ConnectingToDatabaseExercise.resources.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\Connecti.31072D74.Up2Date
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\refint\ConnectingToDatabaseExercise.dll
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.pdb
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ConnectingToDatabaseExercise.genruntimeconfig.cache
+D:\Escritorio\DISERVAULEC\VB.NET\sql viewer\ConnectingToDatabaseExercise\ConnectingToDatabaseExercise\obj\Debug\net8.0-windows\ref\ConnectingToDatabaseExercise.dll

@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\SQLViewer.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\sqlviewer.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\SQLViewer.vbproj|solutionrelative:connectingtodatabaseexercise\\sqlviewer.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|d:\\escritorio\\diservaulec\\vb.net\\sql viewer\\connectingtodatabaseexercise\\connectingtodatabaseexercise\\methods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EEFC23F1-5EEE-4496-8E7A-5375E63F0147}|ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise.vbproj|solutionrelative:connectingtodatabaseexercise\\methods.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectingToDatabaseExercise",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\SQLViewer.vbproj",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\SQLViewer.vbproj",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\SQLViewer.vbproj",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\SQLViewer.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-04-23T17:13:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Form1.Designer.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.Designer.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:28:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Methods.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Methods.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Methods.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Methods.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Methods.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T05:50:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form2.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Form2.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form2.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Form2.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T11:44:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form2.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Form2.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form2.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Form2.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T11:43:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Database.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Database.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Database.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Database.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T11:32:08.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Form1.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.vb",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Form1.vb",
+              "ViewState": "AQIAALkAAAAAAAAAAADwv8IAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T10:24:02.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Dise\u00F1o - ingl\u00E9s (Reino Unido)]",
+              "DocumentMoniker": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.vb",
+              "RelativeDocumentMoniker": "ConnectingToDatabaseExercise\\Form1.vb",
+              "ToolTip": "D:\\Escritorio\\DISERVAULEC\\VB.NET\\sql viewer\\ConnectingToDatabaseExercise\\ConnectingToDatabaseExercise\\Form1.vb [Dise\u00F1o - ingl\u00E9s (Reino Unido)]",
+              "RelativeToolTip": "ConnectingToDatabaseExercise\\Form1.vb [Dise\u00F1o - ingl\u00E9s (Reino Unido)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T10:15:26.761Z",
+              "EditorCaption": " [Dise\u00F1o - ingl\u00E9s (Reino Unido)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
